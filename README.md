@@ -1,4 +1,4 @@
-<img src='banner'>
+<img src='ahtesham.png'>
 <h1 align="center">Hi 👋, I'm Syed Ahtesham </h1>
 <h3 align="center">I Have experience with HTML, CSS, and JavaScript, including frameworks like React to build intuitive user interfaces that provide seamless interactions across devices.</h3>
 <hr> 
